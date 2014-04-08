@@ -28,6 +28,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.2
+
+* Fix latex package dependency
+
 ## 0.0.1
 
 * First pass at creating a box with required packages.
